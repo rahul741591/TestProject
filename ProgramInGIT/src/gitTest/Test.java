@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("1St git test pass");
 		System.out.println("2nd git sucessfully");
 		System.out.println("Again pass");
+		System.out.println("3rd passs");
 	   
 
 	}
