@@ -6,6 +6,7 @@ public class TestGit {
 		
 		System.out.println("Pass");
 		System.out.println("Pass again");
+		System.out.println("pass");
 		
 
 	}
